@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib/poi-3.7.jar lib/poi-ooxml-3.7.jar lib/poi-ooxml-schema
+ s-3.7.jar lib/xmlbeans-2.3.0.jar lib/stax-api-1.0.1.jar lib/geronimo-
+ stax-api_1.0_spec-1.0.jar lib/dom4j-1.6.1.jar lib/xml-apis-1.0.b2.jar
+  lib/log4j-1.2.12.jar
+Main-Class: org.excel2db.write.WriteMain
+

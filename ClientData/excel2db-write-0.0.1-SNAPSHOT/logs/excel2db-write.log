@@ -1,0 +1,10 @@
+2017-03-29 18:56:03 [main] 31::: INFO  org.excel2db.write.WriteMain - path:D:\ndbtest\
+2017-03-29 18:56:03 [main] 33::: INFO  org.excel2db.write.WriteMain - fileList:[]
+2017-03-29 18:56:03 [main] 28::: ERROR org.excel2db.write.util.ConfigUtil - 
+java.io.FileNotFoundException: config.properties (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.excel2db.write.util.ConfigUtil.<clinit>(ConfigUtil.java:20)
+	at org.excel2db.write.WriteMain.main(WriteMain.java:36)

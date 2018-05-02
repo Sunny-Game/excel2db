@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="excel2db-write-0.0.1-SNAPSHOT:jar">
+    <output-path>X:/zhanWuShuang_project/PrototypeData/原型数据表/ClientData/excel2db-write-0.0.1-SNAPSHOT</output-path>
+    <root id="archive" name="excel2db-write-0.0.1-SNAPSHOT.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="excel2db-write" />
+    </root>
+  </artifact>
+</component>
